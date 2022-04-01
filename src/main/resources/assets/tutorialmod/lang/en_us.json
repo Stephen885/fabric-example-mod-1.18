@@ -2,6 +2,18 @@
   "item.tutorialmod.mythril_ingot": "Mythril Ingot",
   "item.tutorialmod.mythril_nugget": "Mythril Nugget",
   "item.tutorialmod.raw_mythril": "Raw Mythril",
+  "item.tutorialmod.bvoite_gem": "Bvoite Gem",
 
-  "block.tutorialmod.mythril_block": "Mythril Block"
+
+  "block.tutorialmod.mythril_ore": "Mythril Ore",
+  "block.tutorialmod.mythril_block": "Block of Mythril",
+  "block.tutorialmod.raw_mythril_block": "Block of Raw Mythril",
+  "block.tutorialmod.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.tutorialmod.netherrack_mythril_ore": "Netherrack Mythril Ore",
+  "block.tutorialmod.bvoite_ore_block": "Bvoite Ore",
+
+  "itemGroup.tutorialmod.mythiril": "Mythril Tutorial Tab"
+
+
+
 }
